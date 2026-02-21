@@ -6,6 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 
 LinkedIn: https://linkedin.com/in/akinchan-maity
+
 Email: akinchan0023.becse24@chitkara.edu.in
 
 <p align="left">
